@@ -1,6 +1,6 @@
 ## Hi, I'm Youssef!
 
-I am a software engineering student from Alberta.
+A software engineering student from Alberta.
 
 - I’m currently learning Cybersecurity principles and OOP, as well as broadening my overall software skills
 - All of my projects are available at my portfolio
