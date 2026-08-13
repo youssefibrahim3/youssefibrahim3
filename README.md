@@ -2,7 +2,7 @@
 
 A software engineering student from Alberta.
 
-- I’m currently learning Cybersecurity principles and OOP, as well as broadening my overall software skills
+- I’m currently expanding my knowledge on cybersecurity and OOP principles, as well as broadening my overall software skills
 - Alongside my pinned repos, you can view all of my past projects in my Portfolio
 - How to reach me: youssef.ibrahim3@ucalgary.ca
 
