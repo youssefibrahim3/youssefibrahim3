@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Youssef!
 
+I am a software engineering student from Alberta.
+
+- I’m currently learning Cybersecurity principles and OOP, as well as broadening my overall software skills
+- All of my projects are available at my portfolio
+- How to reach me: youssef.ibrahim3@ucalgary.ca
+
+<a href="https://www.linkedin.com/in/youssef-ibrahim-0205402bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keeryn johnson" height="30" width="40" /></a>
+</p>
 <!--
 **youssefibrahim3/youssefibrahim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
