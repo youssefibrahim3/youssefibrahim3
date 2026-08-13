@@ -3,7 +3,7 @@
 A software engineering student from Alberta.
 
 - I’m currently learning Cybersecurity principles and OOP, as well as broadening my overall software skills
-- All of my projects are available at my portfolio
+- Alongside my pinned repos, you can view all of my past projects in my Portfolio
 - How to reach me: youssef.ibrahim3@ucalgary.ca
 
 <a href="https://www.linkedin.com/in/youssef-ibrahim-0205402bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keeryn johnson" height="30" width="40" /></a>
